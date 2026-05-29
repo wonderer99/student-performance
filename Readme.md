@@ -2,7 +2,7 @@
 
 A simple Streamlit web app that uses a PyTorch neural network to predict a student's performance index based on their study habits and lifestyle.
 
-👉 **[Live App Link]((https://wonderer99-student-performance-app-65ao8b.streamlit.app/))**
+👉 **[Live App Link](https://wonderer99-student-performance-app-65ao8b.streamlit.app/)**
 
 ---
 
